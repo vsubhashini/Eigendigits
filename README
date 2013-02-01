@@ -1,3 +1,5 @@
+Implementation of Eigenvector decomposition algorithm (PCA) to classify handwritten digits.
+
 This folder contains:
 1. src 		- All source code files
 2. plot 	- plots used in the report
@@ -15,3 +17,5 @@ hw2FindEigendigits.m 	- the required file for this assignment (eigen vector deco
 knn.m			- the k-nearest neighbour source code
 
 The rest of the code in the src file have names that are self-explanatory and are commented sufficiently to be able to follow the algorithm.
+
+Read report for the explanation of the algorithm, implementation details and results.
