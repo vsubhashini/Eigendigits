@@ -1,0 +1,17 @@
+This folder contains:
+1. src 		- All source code files
+2. plot 	- plots used in the report
+3. plot-data	- data used for the plots
+4. plot-scripts	- scripts used to plot the data
+5. visuals 	- the reconstructed images shown in the report
+6. report	- the report
+
+To do a trail sample run of the code:
+1. $cd src
+2. $octave eigendigits.m
+
+eigendigits.m 		- puts all of the individual components together.
+hw2FindEigendigits.m 	- the required file for this assignment (eigen vector decomposition)
+knn.m			- the k-nearest neighbour source code
+
+The rest of the code in the src file have names that are self-explanatory and are commented sufficiently to be able to follow the algorithm.
